@@ -3,7 +3,7 @@
 ## To compile
 
 ```bash
-nasm -f bin ./boot.asm -o ./boot.bi
+nasm -f bin ./boot.asm -o ./boot.bin
 ```
 
 ## To run
